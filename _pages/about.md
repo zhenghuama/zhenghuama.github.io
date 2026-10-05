@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: / # Keep the homepage at the site root.
 subtitle: Welcome to Zhenghua Ma's personal website.
 
 profile:
