@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: / # Keep the homepage at the site root.
-subtitle: Welcome to Zhenghua Ma's personal website.
+subtitle: Welcome to Zhenghua Ma's personal website. Thanks for visiting!
 
 profile:
   align: right
